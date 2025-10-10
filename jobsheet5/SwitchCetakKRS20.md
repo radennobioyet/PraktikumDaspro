@@ -43,3 +43,6 @@ public class IfElseCetakKRS20 {
     }
 }
 ```
+4. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 2” 
+
+jawab : “Modifikasi Percobaan 2”
