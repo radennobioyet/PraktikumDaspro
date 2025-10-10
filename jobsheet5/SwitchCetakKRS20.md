@@ -3,9 +3,11 @@
 1. Apa fungsi dari sintaks break? 
 
 jawab : break digunakan untuk menghentikan proses atau keluar dari blok tertentu.
+
 2. Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE? 
 
 jawab : default digunakan sebagai blok yang dijalankan ketika tidak ada satu pun case yang cocok.
+
 3. Buat file baru dengan nama ifElseCetakKRSNoPresensi.java. File ini berisi program hasil transformasi dari program cetak KRS menggunakan struktur SWITCH-CASE yang telah dibuat ke dalam bentuk IF-ELSE IF-ELSE. 
 
 jawab : 
