@@ -1,3 +1,6 @@
+# JOBSHEET 5
+# Percobaan 1
+
 1. Mengapa pengecekan pada struktur IF tersebut tidak melibatkan kondisi dengan operator relasional? 
    jawab : karena nilai boolean sudah mewakili kondisi benar atau salah, operator relasional tidak diperlukan.
 2. Saat program dijalankan, kemudian Anda mengisikan nilai false, bagaimana hasilnya? 
@@ -26,3 +29,5 @@ public class IfCetakKRS20 {
     }
 }
 ```
+4. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 1”
+jawab : Modifikasi Percobaan 1
